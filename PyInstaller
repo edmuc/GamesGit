@@ -1,0 +1,5 @@
+### Se debe instalar PyInstaller con el comando
+pip install pyinstaller 
+### Posteriormente se ejecuta el siguiente comando desde el cmd estando en la carpeta en la que esta el juego
+python -m PyInstaller --onefile --windowed main.py
+
