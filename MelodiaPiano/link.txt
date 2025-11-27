@@ -1,0 +1,5 @@
+https://github.com/jolayac/Acertijo
+
+
+Este es el link repositorio del repositorio.
+debes descargarlo y correr el archivo ejecutable que está dentro de la carpeta dist.
